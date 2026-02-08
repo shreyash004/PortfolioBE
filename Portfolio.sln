@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio", "Portfolio\Port
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenancyManagement", "TenancyManagement\TenancyManagement.csproj", "{90E32D82-4CA9-4E0F-BA4D-FCD8CE8495CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenancyShared", "TenancyShared\TenancyShared.csproj", "{5AEA0D7D-A724-41BC-AB6B-7C2B932AE3FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{90E32D82-4CA9-4E0F-BA4D-FCD8CE8495CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90E32D82-4CA9-4E0F-BA4D-FCD8CE8495CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90E32D82-4CA9-4E0F-BA4D-FCD8CE8495CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AEA0D7D-A724-41BC-AB6B-7C2B932AE3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AEA0D7D-A724-41BC-AB6B-7C2B932AE3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AEA0D7D-A724-41BC-AB6B-7C2B932AE3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AEA0D7D-A724-41BC-AB6B-7C2B932AE3FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
